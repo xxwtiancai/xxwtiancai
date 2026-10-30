@@ -12,9 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/AI%20Agents-38598B?style=flat" alt="AI Agents">
-  <img src="https://img.shields.io/badge/Visual%20Computing-547A5E?style=flat" alt="Visual Computing">
-  <img src="https://img.shields.io/badge/Video%20Coding-8C6D46?style=flat" alt="Video Coding">
+  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/focus-badges.svg" alt="AI Agents · Visual Computing · Video Coding">
 </p>
 
 ### Open-source contributions
