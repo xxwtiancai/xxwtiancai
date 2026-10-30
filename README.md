@@ -76,4 +76,6 @@ An auditable loop for improving a harness around a frozen model. Candidate chang
 
 For conversations about agent applications, sandboxes, memory, or self-improvement:
 
+[**Google Scholar**](https://scholar.google.com/citations?user=DkE_w7wAAAAJ)
+
 [**xiongweixiao@foxmail.com**](mailto:xiongweixiao@foxmail.com) &nbsp;·&nbsp; [**xiongweixiaoxxw@gmail.com**](mailto:xiongweixiaoxxw@gmail.com)
