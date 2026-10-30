@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Xiongwei Xiao — Building with AI agents</title>
+  <desc id="desc">A dark blue banner with a network of connected nodes and the themes open source, visual computing, and video coding.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1b2e"/><stop offset="1" stop-color="#133b46"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64e0ca"/><stop offset="1" stop-color="#8ba9ff"/></linearGradient>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#d4e9f4" stroke-opacity=".045"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#4cc9c1" stop-opacity=".2"/><stop offset="1" stop-color="#4cc9c1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <circle cx="1000" cy="145" r="195" fill="url(#glow)"/>
+  <g fill="none" stroke="#8ed4df" stroke-opacity=".18"><circle cx="1000" cy="145" r="117"/><circle cx="1000" cy="145" r="79"/><circle cx="1000" cy="145" r="42"/></g>
+  <g stroke="url(#line)" stroke-width="2" stroke-opacity=".7" fill="none"><path d="M881 162 925 88 1000 145 1069 71 1120 135 1077 213 1000 145 945 211 925 88"/><path d="M881 162 945 211 1000 145 1120 135"/></g>
+  <g fill="#8ee8d8"><circle cx="881" cy="162" r="4"/><circle cx="925" cy="88" r="5"/><circle cx="945" cy="211" r="4"/><circle cx="1000" cy="145" r="7"/><circle cx="1069" cy="71" r="4"/><circle cx="1120" cy="135" r="5"/><circle cx="1077" cy="213" r="4"/></g>
+  <rect x="66" y="61" width="48" height="4" rx="2" fill="#7ce2d2"/>
+  <text x="66" y="121" fill="#eff8ff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing=".2">BUILDING WITH AI AGENTS</text>
+  <text x="66" y="161" fill="#a4c5d1" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1.1">BUILD · EVALUATE · IMPROVE</text>
+  <path d="M66 194H657" stroke="#a4c5d1" stroke-opacity=".25"/>
+  <text x="66" y="229" fill="#8bd4d0" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".7">OPEN SOURCE  /  VISUAL COMPUTING  /  VIDEO CODING</text>
+</svg>
