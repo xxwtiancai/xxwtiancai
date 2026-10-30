@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/profile-banner.svg" alt="AI agents, machine learning, visual computing, and video coding" width="900">
+  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/profile-banner-v2.svg" alt="AI agents, machine learning, visual computing, and video coding" width="900">
 </p>
 
 <p align="center">
@@ -17,19 +17,16 @@
 
 ### Open-source contributions
 
-Repository stars as of October 30, 2026.
+| Project | Contribution | Repository stars |
+| :--- | :--- | ---: |
+| [Strands Agents Harness SDK](https://github.com/strands-agents/harness-sdk) | Preserve structured output before history offloading · [merged PR](https://github.com/strands-agents/harness-sdk/pull/5429) | ★ 8,996 |
+| [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Protect C# SDK credentials across redirects · [merged PR](https://github.com/opensandbox-group/OpenSandbox/pull/2183) | ★ 16,270 |
+| [MOMO CODE](https://github.com/momozi1996/momo-code) | Improve graph scheduling · [merged PR](https://github.com/momozi1996/momo-code/pull/12) | ★ 1,107 |
+| [Google ADK](https://github.com/google/adk-python) | [View pull requests](https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Axxwtiancai) | ★ 22,046 |
+| [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk) | [View pull requests](https://github.com/OpenHands/software-agent-sdk/pulls?q=is%3Apr+author%3Axxwtiancai) | ★ 1,322 |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | [View pull requests](https://github.com/QwenLM/qwen-code/pulls?q=is%3Apr+author%3Axxwtiancai) | ★ 28,816 |
 
-Selected merged contributions:
-
-- [Strands Agents Harness SDK](https://github.com/strands-agents/harness-sdk/pull/5429) · [★ 8,996](https://github.com/strands-agents/harness-sdk) — preserved structured output before conversation history offloading.
-- [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/2183) · [★ 16,270](https://github.com/opensandbox-group/OpenSandbox) — protected C# SDK credentials across redirects.
-- [MOMO CODE](https://github.com/momozi1996/momo-code/pull/12) · [★ 1,107](https://github.com/momozi1996/momo-code) — improved graph scheduling with a work-conserving slot scheduler.
-
-Other contributions:
-
-- [Google ADK](https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Axxwtiancai) · [★ 22,046](https://github.com/google/adk-python)
-- [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk/pulls?q=is%3Apr+author%3Axxwtiancai) · [★ 1,322](https://github.com/OpenHands/software-agent-sdk)
-- [Qwen Code](https://github.com/QwenLM/qwen-code/pulls?q=is%3Apr+author%3Axxwtiancai) · [★ 28,816](https://github.com/QwenLM/qwen-code)
+<sub>Repository star counts as of October 30, 2026.</sub>
 
 ### Projects
 
