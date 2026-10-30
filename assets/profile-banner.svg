@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Xiongwei Xiao — AI and visual computing</title>
+  <desc id="desc">A dark blue abstract banner with themes of AI agents, machine learning, visual computing and video coding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d30"/><stop offset="1" stop-color="#173d4a"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#65d6cc"/><stop offset="1" stop-color="#8aa8ff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#a9c2d5" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="270" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="270" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="135" r="108" fill="none" stroke="#75dbd0" stroke-opacity=".18"/>
+  <circle cx="1010" cy="135" r="72" fill="none" stroke="#a4baff" stroke-opacity=".3"/>
+  <path d="M904 161 L956 97 L1012 145 L1070 79 L1114 132 M956 97 L978 187 L1012 145 L1060 190 L1114 132" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2"/>
+  <g fill="#8de4da"><circle cx="904" cy="161" r="4"/><circle cx="956" cy="97" r="5"/><circle cx="978" cy="187" r="4"/><circle cx="1012" cy="145" r="6"/><circle cx="1070" cy="79" r="4"/><circle cx="1060" cy="190" r="4"/><circle cx="1114" cy="132" r="5"/></g>
+  <rect x="64" y="56" width="45" height="4" rx="2" fill="#78d9d0"/>
+  <text x="64" y="117" fill="#f5fbff" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" letter-spacing=".5">AI &amp; VISUAL COMPUTING</text>
+  <text x="64" y="157" fill="#a9c5d2" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1">BUILDING · RESEARCHING · SHARING</text>
+  <text x="64" y="211" fill="#83c9c8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing=".4">AI AGENTS   /   MACHINE LEARNING   /   VIDEO CODING</text>
+</svg>
