@@ -17,13 +17,19 @@
 
 ### Open-source contributions
 
+Repository stars as of October 30, 2026.
+
 Selected merged contributions:
 
-- [Strands Agents Harness SDK](https://github.com/strands-agents/harness-sdk/pull/5429) — preserved structured output before conversation history offloading.
-- [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/2183) — protected C# SDK credentials across redirects.
-- [MOMO CODE](https://github.com/momozi1996/momo-code/pull/12) — improved graph scheduling with a work-conserving slot scheduler.
+- [Strands Agents Harness SDK](https://github.com/strands-agents/harness-sdk/pull/5429) · [★ 8,996](https://github.com/strands-agents/harness-sdk) — preserved structured output before conversation history offloading.
+- [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/2183) · [★ 16,270](https://github.com/opensandbox-group/OpenSandbox) — protected C# SDK credentials across redirects.
+- [MOMO CODE](https://github.com/momozi1996/momo-code/pull/12) · [★ 1,107](https://github.com/momozi1996/momo-code) — improved graph scheduling with a work-conserving slot scheduler.
 
-I also contribute to [Google ADK](https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Axxwtiancai), [OpenHands](https://github.com/OpenHands/software-agent-sdk/pulls?q=is%3Apr+author%3Axxwtiancai), and [Qwen Code](https://github.com/QwenLM/qwen-code/pulls?q=is%3Apr+author%3Axxwtiancai).
+Other contributions:
+
+- [Google ADK](https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Axxwtiancai) · [★ 22,046](https://github.com/google/adk-python)
+- [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk/pulls?q=is%3Apr+author%3Axxwtiancai) · [★ 1,322](https://github.com/OpenHands/software-agent-sdk)
+- [Qwen Code](https://github.com/QwenLM/qwen-code/pulls?q=is%3Apr+author%3Axxwtiancai) · [★ 28,816](https://github.com/QwenLM/qwen-code)
 
 ### Projects
 
