@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/profile-banner-v2.svg" alt="AI agents, machine learning, visual computing, and video coding" width="900">
+  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/profile-banner-ai-v1.png" alt="An abstract network of AI agents connecting digital data and visual frames" width="900">
 </p>
 
 <p align="center">
