@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="20" viewBox="0 0 315 20" role="img" aria-labelledby="title">
+  <title id="title">AI Agents, Visual Computing, Video Coding</title>
+  <g font-family="Verdana, DejaVu Sans, sans-serif" font-size="11" fill="#fff" text-anchor="middle">
+    <rect width="76" height="20" rx="3" fill="#38598b"/>
+    <text x="38" y="14">AI Agents</text>
+    <rect x="80" width="122" height="20" rx="3" fill="#547a5e"/>
+    <text x="141" y="14">Visual Computing</text>
+    <rect x="206" width="109" height="20" rx="3" fill="#8c6d46"/>
+    <text x="260.5" y="14">Video Coding</text>
+  </g>
+</svg>
