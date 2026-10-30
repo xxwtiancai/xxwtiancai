@@ -1,10 +1,13 @@
 <h1 align="center">Xiongwei Xiao</h1>
 
 <p align="center">
-  I build AI agent applications, turning agent capabilities into practical workflows.<br>
-  My work focuses on developing agent-powered systems, and I am particularly interested in how agents can retain useful memory, learn from experience, and improve over time.<br>
-  Looking ahead, I want to dive deeper into agent memory and recursive self-improvement (RSI), while contributing to the open-source agent ecosystem.<br>
-  Before working on agents, I worked on video coding and visual computing.
+  I build AI agent applications, turning agent capabilities into systems that can be used in real workflows.<br>
+  Through my own projects and open-source contributions, I explore the engineering that makes agents more reliable: how they use tools, handle actions, and are evaluated.
+</p>
+
+<p align="center">
+  Looking ahead, I am interested in <strong>agent memory</strong> and <strong>recursive self-improvement (RSI)</strong>—how agents can carry useful context forward and improve their behavior through feedback and evaluation over time.<br>
+  My background is in video coding and visual computing.
 </p>
 
 <p align="center">
