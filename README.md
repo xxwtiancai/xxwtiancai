@@ -1,8 +1,8 @@
 <h1 align="center">Xiongwei Xiao</h1>
 
 <p align="center">
-  Working on AI agents and contributing to open-source agent tools.<br>
-  Previously focused on video coding and visual computing.
+  Building AI agent applications and exploring agent memory and recursive self-improvement (RSI).<br>
+  Previously worked on video coding.
 </p>
 
 <p align="center">
