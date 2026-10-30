@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#focus">Focus</a> &nbsp;·&nbsp;
-  <a href="#open-source">Open source</a> &nbsp;·&nbsp;
-  <a href="#projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
+  <a href="#user-content-about">About</a> &nbsp;·&nbsp;
+  <a href="#user-content-focus">Focus</a> &nbsp;·&nbsp;
+  <a href="#user-content-open-source">Open source</a> &nbsp;·&nbsp;
+  <a href="#user-content-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#user-content-contact">Contact</a>
 </p>
 
 <p align="center">
@@ -24,37 +24,24 @@ My longer-term interest is in agents that can build on previous experience. I am
 
 ## Focus
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub>CURRENT WORK</sub>
-      <h3>Agent applications</h3>
-      <p>Building useful workflows around models, tools, and actions.</p>
-    </td>
-    <td width="33%" valign="top">
-      <sub>EXPLORING</sub>
-      <h3>Agent memory</h3>
-      <p>What should agents remember, retrieve, and carry forward across tasks?</p>
-    </td>
-    <td width="33%" valign="top">
-      <sub>EXPLORING</sub>
-      <h3>Recursive self-improvement</h3>
-      <p>How can feedback improve an agent's harness, and how do we verify the gains?</p>
-    </td>
-  </tr>
-</table>
+- **Agent applications** · Current work  
+  Building useful workflows around models, tools, and actions.
+- **Agent memory** · Exploring  
+  What should agents remember, retrieve, and carry forward across tasks?
+- **Recursive self-improvement** · Exploring  
+  How can feedback improve an agent's harness, and how do we verify the gains?
 
 ## Open source
 
 Selected contributions to the tools and infrastructure behind AI agents.
 
-| Project | My contribution | Repository stars |
+| Project | Contribution | Stars |
 | :--- | :--- | ---: |
 | **[Strands Agents Harness SDK](https://github.com/strands-agents/harness-sdk)** | Preserve structured output during history offloading.<br><sub>Merged · [#5429](https://github.com/strands-agents/harness-sdk/pull/5429)</sub> | [★ 8,998](https://github.com/strands-agents/harness-sdk/stargazers) |
 | **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** | Protect C# SDK credentials across redirects.<br><sub>Merged · [#2183](https://github.com/opensandbox-group/OpenSandbox/pull/2183)</sub> | [★ 16,278](https://github.com/opensandbox-group/OpenSandbox/stargazers) |
 | **[MOMO CODE](https://github.com/momozi1996/momo-code)** | Keep graph execution slots busy as tasks finish.<br><sub>Merged · [#12](https://github.com/momozi1996/momo-code/pull/12)</sub> | [★ 1,107](https://github.com/momozi1996/momo-code/stargazers) |
 | **[Google ADK](https://github.com/google/adk-python)** | Contain relative paths within sandbox workspaces.<br><sub>Open PR · [#7700](https://github.com/google/adk-python/pull/7700)</sub> | [★ 22,047](https://github.com/google/adk-python/stargazers) |
-| **[OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk)** | Expose MCP resources and prompts in the SDK.<br><sub>Open PR · [#6196](https://github.com/OpenHands/software-agent-sdk/pull/6196)</sub> | [★ 1,322](https://github.com/OpenHands/software-agent-sdk/stargazers) |
+| **[OpenHands SDK](https://github.com/OpenHands/software-agent-sdk)** | Expose MCP resources and prompts in the SDK.<br><sub>Open PR · [#6196](https://github.com/OpenHands/software-agent-sdk/pull/6196)</sub> | [★ 1,322](https://github.com/OpenHands/software-agent-sdk/stargazers) |
 | **[Qwen Code](https://github.com/QwenLM/qwen-code)** | Share compression cache for equivalent model selections.<br><sub>Open PR · [#15318](https://github.com/QwenLM/qwen-code/pull/15318)</sub> | [★ 28,821](https://github.com/QwenLM/qwen-code/stargazers) |
 
 <sub>Repository stars and PR status checked on October 30, 2026.</sub>
