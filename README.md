@@ -1,7 +1,7 @@
 <h1 align="center">Xiongwei Xiao</h1>
 
 <p align="center">
-  <strong>Building agent applications. Exploring how agents remember and improve.</strong>
+  <strong>Building agent applications and the systems behind them.</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About
 
-I build **AI agent applications**, with a focus on the engineering that turns model capabilities into useful software. My work centers on agents: how they use tools, execute actions, manage context, and behave in real workflows. Alongside this work, I build open-source tools and contribute to the agent ecosystem.
+I build **AI agent applications** and contribute to the systems behind them: **sandboxed execution**, agent SDKs, tool use, and context management. My open-source work includes improvements to credential handling in [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) and proposed sandbox workspace protections in [Google ADK](https://github.com/google/adk-python/pull/7700). I am interested in the engineering details that make agents dependable in real workflows.
 
 My longer-term interest is in agents that can build on previous experience. I am exploring **agent memory** and **recursive self-improvement (RSI)**: how to preserve useful context, turn feedback into better behavior, and test whether an improvement holds up. Previously, I worked on video coding and visual computing.
 
@@ -26,6 +26,8 @@ My longer-term interest is in agents that can build on previous experience. I am
 
 - **Agent applications** · Current work  
   Building useful workflows around models, tools, and actions.
+- **Sandbox & execution** · Open-source work  
+  Credential handling, workspace boundaries, and controlled agent execution.
 - **Agent memory** · Exploring  
   What should agents remember, retrieve, and carry forward across tasks?
 - **Recursive self-improvement** · Exploring  
@@ -38,7 +40,7 @@ Selected contributions to the tools and infrastructure behind AI agents.
 | Project | Contribution | Stars |
 | :--- | :--- | ---: |
 | **[Strands Agents Harness SDK](https://github.com/strands-agents/harness-sdk)** | Preserve structured output during history offloading.<br><sub>Merged · [#5429](https://github.com/strands-agents/harness-sdk/pull/5429)</sub> | [★ 8,998](https://github.com/strands-agents/harness-sdk/stargazers) |
-| **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** | Protect C# SDK credentials across redirects.<br><sub>Merged · [#2183](https://github.com/opensandbox-group/OpenSandbox/pull/2183)</sub> | [★ 16,278](https://github.com/opensandbox-group/OpenSandbox/stargazers) |
+| **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** | Harden C# and Kotlin SDK credential handling.<br><sub>Merged · [#2183](https://github.com/opensandbox-group/OpenSandbox/pull/2183) · [#2372](https://github.com/opensandbox-group/OpenSandbox/pull/2372) · [#2375](https://github.com/opensandbox-group/OpenSandbox/pull/2375)</sub> | [★ 16,278](https://github.com/opensandbox-group/OpenSandbox/stargazers) |
 | **[MOMO CODE](https://github.com/momozi1996/momo-code)** | Keep graph execution slots busy as tasks finish.<br><sub>Merged · [#12](https://github.com/momozi1996/momo-code/pull/12)</sub> | [★ 1,107](https://github.com/momozi1996/momo-code/stargazers) |
 | **[Google ADK](https://github.com/google/adk-python)** | Contain relative paths within sandbox workspaces.<br><sub>Open PR · [#7700](https://github.com/google/adk-python/pull/7700)</sub> | [★ 22,047](https://github.com/google/adk-python/stargazers) |
 | **[OpenHands SDK](https://github.com/OpenHands/software-agent-sdk)** | Expose MCP resources and prompts in the SDK.<br><sub>Open PR · [#6196](https://github.com/OpenHands/software-agent-sdk/pull/6196)</sub> | [★ 1,322](https://github.com/OpenHands/software-agent-sdk/stargazers) |
@@ -71,6 +73,6 @@ Selected contributions to the tools and infrastructure behind AI agents.
 
 ## Contact
 
-For conversations about agent applications, memory, or self-improvement:
+For conversations about agent applications, sandboxes, memory, or self-improvement:
 
 [**xiongweixiao@foxmail.com**](mailto:xiongweixiao@foxmail.com) &nbsp;·&nbsp; [**xiongweixiaoxxw@gmail.com**](mailto:xiongweixiaoxxw@gmail.com)
