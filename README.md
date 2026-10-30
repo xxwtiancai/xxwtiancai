@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/profile-hero-v3.jpg" alt="Connected agent nodes and visual frames flowing through a dark blue digital landscape" width="900">
+  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/agent-harness-overview-v1.png" alt="Conceptual Agent Harness architecture showing the agent loop, model, context and memory, policy checks, tools and sandbox, observations, traces, and evaluation" width="900">
 </p>
 
 ## About
@@ -52,24 +52,25 @@ Selected contributions to the tools and infrastructure behind AI agents.
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/xxwtiancai/action-anything"><img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/action-anything-cover-v1.jpg" alt="An abstract gateway connecting agent actions to an ordered execution trace" width="420"></a>
-      <h3><a href="https://github.com/xxwtiancai/action-anything">ActionAnything</a></h3>
-      <p>A policy-gated runtime for executing, recording, and replaying AI-directed actions.</p>
-      <p><sub>ACTION EXECUTION · POLICIES · TRACES</sub></p>
-      <a href="https://github.com/xxwtiancai/action-anything">Explore the project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/xxwtiancai/nanoRSI"><img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/nanorsi-cover-v1.jpg" alt="An abstract glass feedback loop surrounding a stable central core" width="420"></a>
-      <h3><a href="https://github.com/xxwtiancai/nanoRSI">nanoRSI</a></h3>
-      <p>A minimal, auditable harness-improvement loop for AI systems.</p>
-      <p><sub>RSI · EXPERIMENTS · EVALUATION</sub></p>
-      <a href="https://github.com/xxwtiancai/nanoRSI">Explore the project →</a>
-    </td>
-  </tr>
-</table>
+### [ActionAnything](https://github.com/xxwtiancai/action-anything)
+
+An action execution layer for an agent harness: normalize and validate proposals, apply policy and required approval, execute permitted actions, and record redacted traces. Model calls and deployment isolation stay with the host application.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/actionanything-harness-v1.png" alt="ActionAnything: host application to normalization and validation, policy and approval, executor, and result; policy outcomes and execution feed a redacted trace" width="900">
+</p>
+
+[Code & documentation →](https://github.com/xxwtiancai/action-anything)
+
+### [nanoRSI](https://github.com/xxwtiancai/nanoRSI)
+
+An auditable loop for improving a harness around a frozen model. Candidate changes are proposed, probed, contrasted, and composed from execution evidence; scoring happens only after freeze.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xxwtiancai/xxwtiancai/main/assets/nanorsi-harness-v1.png" alt="nanoRSI: frozen model and editable harness; propose, probe, contrast, and compose during evolution; freeze before judging; evidence recorded in a ledger" width="900">
+</p>
+
+[Code & documentation →](https://github.com/xxwtiancai/nanoRSI)
 
 ## Contact
 
